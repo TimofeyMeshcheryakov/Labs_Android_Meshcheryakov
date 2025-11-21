@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Android_Mobile_Labs</string>
-    <string name="king_message_text">Dear Denis,\nYou are the best dev in the world!\nInvites you to a great feast!\nCome to the castle before sunset,\notherwise, you risk losing your head!</string>
-    <string name="from_codegod_rudy">From code <font color="#FF0000">GOD RUDY</font></string>
-    <string name="invitation_title">Hell Yeahhhhh!</string>
-    <string name="roll">Roll</string>
-</resources>
